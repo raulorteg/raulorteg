@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif
+<img src = https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif>
