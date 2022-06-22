@@ -1,4 +1,3 @@
-<img src = "https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" height = "140px" align="right">
-<a href = "https://github.com/raulorteg">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raulorteg&layout=compact&hide=jupyter notebook, matlab"/ align="left">
-</a>
+<!--<img src = "https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" height = "140px" align="right">-->
+<img src = "https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" height = "200px" align="right">
+ <a href="https://github.com/raulorteg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulorteg&show_icons=true&include_all_commits=true&hide=jupyter notebook&theme=gruvbox_light&hide_border=true" alt="Raul's github stats" /></a> | <a href="https://github.com/raulorteg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulorteg&layout=compact&hide=jupyter notebook&theme=gruvbox_light&hide_border=true" /></a> |
