@@ -1,7 +1,6 @@
+## Raul Ortega-Ochoa
 
-<img src = "https://i.pinimg.com/originals/67/b2/a9/67b2a9ba5e85822f237caae92111e938.gif" height = "200px" align="right">
+Machine learning for molecular and materials discovery, focusing on physics-informed models and learning under physical constraints.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raulorteg&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulorteg&layout=compact&hide_border=true)
-
+🔗 Google Scholar: https://scholar.google.com/citations?user=cVa72foAAAAJ  
+🔗 LinkedIn: https://www.linkedin.com/in/raulortegaochoa/
